@@ -1,5 +1,5 @@
 // --------     Task 2
-const prompt=require("prompt-sync")();
+const prompt= require("prompt-sync") ();
 
 
 var sum = 0;
