@@ -1,5 +1,5 @@
 
-const prompt= require("prompt-sync") ();
+// const prompt= require("prompt-sync") ();
 
 let weight = prompt("Enter your weiht(in kg).");
 let height = prompt("Enter height(in meter).");
